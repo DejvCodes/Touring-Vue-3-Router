@@ -5,7 +5,7 @@
 • Nested Routes
 • Redirect & Alias
 • Programmatic Navigation
-• Error Handling and 404s
+• Error Handling and 404
 • Flash Messages
 
 ## 💻 Tech Stack
