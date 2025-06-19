@@ -12,4 +12,4 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,vue)](https://skillicons.dev)
 
 ## 🔐 License
-[MIT License](LICENSE)
+[MIT License](LICENSE) 
