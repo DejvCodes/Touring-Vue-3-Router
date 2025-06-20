@@ -1,5 +1,5 @@
 ## Touring Vue 3 Router (Composition API) - Vue Mastery
-• Introduction
+Introduction
 • Receiving URL Parameters
 • Building Pagination
 • Nested Routes
